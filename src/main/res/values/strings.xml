@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="ok">ok</string>
+    <string name="error">error</string>
+    <string name="loading">loading...</string>
+</resources>
